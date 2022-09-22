@@ -5,11 +5,11 @@ This repo tests the Heroku App for Syndio.
 This is to be ran locally!
 
 
-SYSTEM REQUIREMENTS:
+REQUIREMENTS:
 1. Python
 2. PyCharm (or other IDE of your choice)
 3. Chrome browser
-
+4. Atlassian account
 
 HOW TO RUN:
 1. Clone this repo
@@ -24,6 +24,6 @@ You should see the standard output test results.
 
 
 OTHER INFORMATION:
-There is a Jira created for this project. Jira contains a sprint board and a regression suite.
+There is a Jira created for this project. My Jira contains a sprint board and a regression suite.
 1. Sprint board: https://bit.ly/3QXkd7f
 2. Regression Suite: https://bit.ly/3fd1aZ6
